@@ -6,9 +6,11 @@ A free AI coach that plans your marathon carb load and keeps a running total of 
 
 Start 3 days before the race for a 2-day load, or 4 days before for a 3-day load. Then your plan is ready before the first breakfast.
 
-1. Open ChatGPT (chatgpt.com), Claude (claude.ai), or Gemini (gemini.google.com). **Sign in first.** A free account works. Without signing in, the app does not save your chat (you lose your totals) and may not let you send photos.
+1. Use the AI platform of your choice: ChatGPT, Claude, or Gemini. A few notes first:
+- Be sure to sign in first! Since you'll be using this over the course of a couple of days, make sure you're signed in to your AI platform so the conversation will persist cleanly over time.
+- A free account works but be aware of photo limitations! Depending on your AI platform, photo uploads may be limited on free accounts, so only use photos when necessary and default to providing information via text or chat.
 2. Open [coach_prompt.md](coach_prompt.md). Click the **Copy raw file** button (two overlapping squares, top right of the file). Start a new chat, paste the prompt, and press send.
-3. Answer the coach's questions: race date, weight, 2-day or 3-day load, food dislikes, and whether to track fluids. If the app shows a form, fill it in. Otherwise, type your answers.
+3. Your AI coach will ask you a few questions to prepare the plan. Answer the coach's questions: race date, weight, 2-day or 3-day load, food dislikes, and whether to track fluids. If the app shows a form, fill it in. Otherwise, type your answers.
 
 The coach then gives you your daily carb target and a plan for each day.
 
@@ -30,9 +32,9 @@ Free plans limit photo uploads. In testing, ChatGPT Free stopped uploads after 3
 
 ## Tips
 
-- Label numbers give the most accurate totals. Plate photos are estimates.
-- Send a menu photo before you order. The coach picks the best carb choices for that meal. On a free plan, each menu photo uses one of your limited uploads. To save uploads, type 2–3 dishes you are considering and ask which one is best.
-- Put something of known size in plate photos, such as a 20 oz bottle.
+- Nutrition label numbers give the most accurate totals. AI can approximate from food/plate photos, but keep in mind they are really estimates.
+- If you are eating out and unsure what to order, send a menu photo before you order. The coach picks the best carb choices for that meal. On a free plan, each menu photo uses one of your limited uploads. To save uploads, type 2–3 dishes you are considering and ask which one is best.
+- Put something of known size in food or plate photos, such as a 20 oz bottle.
 - Juice, sports drinks, and Italian ice are an easy way to get carbs when you are tired of eating.
 
 ## Important
