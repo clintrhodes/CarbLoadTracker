@@ -1,4 +1,4 @@
-# Carb-Load Coach: How to Use It
+# AI Carb Load Tracker: How to Use It
 
 A free AI coach that plans your marathon carb load and keeps a running total of what you eat. It works in ChatGPT, Claude, or Gemini. Setup takes about 5 minutes. Logging takes about 1 minute per meal or snack.
 
