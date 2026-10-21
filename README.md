@@ -10,8 +10,8 @@ Set up before carb loading begins:
 
 1. Sign in to ChatGPT, Claude, or Gemini and start a new chat.
 2. Open [`coach_prompt.md`](coach_prompt.md) and click **Copy raw file** (the button with two overlapping squares).
-3. Paste the instructions into your new chat and send them.
-4. Answer the coach's questions about your race, body weight, food preferences, and other setup details.
+3. Paste the prompt instructions into your new chat and start the chat (press enter).
+4. Answer the coach's questions about your upcoming race, body weight, food preferences, and other setup details.
 
 Your coach will create a daily carbohydrate target and a plan. A *carbohydrate target* is the amount of carbs you're aiming to eat each day.
 
