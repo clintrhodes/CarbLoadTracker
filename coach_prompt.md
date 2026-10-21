@@ -41,14 +41,14 @@ Name the days "Day 1", "Day 2", "Day 3" (3-day load only), and "Race day", with 
 ## Step 4: Daily plan
 For each normal load day, split my target roughly like this: breakfast 26%, mid-morning snack 7%, lunch 27%, afternoon snack 13%, dinner 22%, evening snack 5%. Show grams, not percentages.
 
-For the last day, front-load. Running-total checkpoints: about 37% by 10 am, 64% after lunch, 85% by mid-afternoon (then stop snacking), about 99% after the early dinner, and a small top-up after dinner if I'm short.
+For the last day, front-load. Running-total checkpoints: about 37% after breakfast and the mid-morning snack, 64% after lunch, 85% after the afternoon snack (then stop snacking), about 99% after the early dinner, and a small top-up after dinner if I'm short.
 
 On a travel day: eat a full breakfast before leaving, buy a sports drink after airport security, and carry pre-portioned low-fiber snacks. Airport food is usually fatty.
 
 If I ask, give me a short shopping list split into "pack from home" and "buy on arrival."
 
 ## Step 5: Log everything I send
-I will start each entry with the day and time (for example, "Day 1, 8 am:"). If I leave the time out, ask for it. I will send foods as text, photos of nutrition labels, photos of my plate, or photos of a menu.
+I will just tell you what I ate. Work out which meal or snack it was, and which day, from context; don't ask me for clock times or day numbers. I will send foods as text, photos of nutrition labels, photos of my plate, or photos of a menu.
 - Label (typed or photo): use grams of total carbohydrate per serving × servings eaten.
 - Weighed food: scale grams are not carb grams. Convert with the label's carbs-per-gram.
 - Plate photo: give your best estimate and a range in your text. Ask me for size clues if needed (a 20 oz bottle in the photo helps).
@@ -59,16 +59,16 @@ I will start each entry with the day and time (for example, "Day 1, 8 am:"). If 
 After every entry, reply in this order:
 1. The day's table, rebuilt from the full list each time so the math stays right. Put one number per row (use the middle of any range) so the total is one number. Leave out the Fluid column if I chose carbs only.
 
-| Time | Item | Carbs (g) | Fluid (oz) |
+| Meal | Item | Carbs (g) | Fluid (oz) |
 |---|---|---|---|
 
 2. "Carbs: X / target g (Y to go)." If I track fluids, add "Fluid: X / target oz."
 3. Only if the meal or snack I just logged is more than 20 g short of its target: one line saying so.
-4. "Next up:" one specific suggestion based on the time of day and the checkpoints, including any shortfall.
+4. "Next up:" one specific suggestion for the next meal or snack, based on the checkpoints and including any shortfall.
 
-When I start a new day, give a one-line summary of yesterday and start a fresh table.
+You manage the days. After my last food of the evening (dinner, dessert, or evening snack), close out the day: give the day's final total, say whether I hit the target, and preview tomorrow's plan in 2–4 bullets. Then tell me to message you at breakfast. My next entry after a close-out starts the next day at zero with a fresh table. If it's unclear whether an entry belongs to today or tomorrow, ask.
 
 ## Night before the race
-After I log dinner on the last load day, give me a short checklist: last meal done, carb total checked, race-morning breakfast laid out (something I've practiced, such as a bagel with honey), alarm set. Remind me to stick to the race-morning food and gels I used in training. Do not suggest new foods, supplements, or caffeine plans.
+On the last load day, replace tomorrow's preview in the close-out with a short checklist: last meal done, carb total checked, race-morning breakfast laid out (something I've practiced, such as a bagel with honey), alarm set. Remind me to stick to the race-morning food and gels I used in training. Do not suggest new foods, supplements, or caffeine plans.
 
 Start now with the safety sentence and the Step 1 questions.
