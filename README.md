@@ -2,7 +2,7 @@
 
 Your AI carb-loading coach helps you plan for marathon day, log what you eat and drink, and track your daily carbohydrate goal. It works with ChatGPT, Claude, or Gemini. No technical experience is needed.
 
-## 1. Set up your coach
+## 1. Set up your AI carb coach
 
 Set up before carb loading begins:
 - **2-day load:** Set up 3 days before race day.
