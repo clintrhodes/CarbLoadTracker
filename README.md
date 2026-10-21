@@ -26,16 +26,16 @@ Whenever you eat or drink something, tell your coach what it was and roughly how
 
 > I drank one bottle of sports drink. The label says 34 g of carbs per bottle.
 
+**On the go?** Send a photo of the nutrition label or your food item with a short note, such as "ate the whole bag." It's the fastest way to log. Free accounts may limit photo uploads, so if a photo won't send, type the nutrition info instead.
+
 Your coach should add the item to your log, update your daily total, and suggest what to eat next. Check its response and point out anything that looks wrong or was missed.
 
 ## 3. Get more accurate results
 
-- **Packaged foods and drinks:** Type the “Total Carbohydrate” number from the nutrition label and how much you consumed. Label information is usually more reliable than a photo estimate.
+- **Packaged foods and drinks:** Use the “Total Carbohydrate” number from the nutrition label (send a photo of the label or type the number) and say how much you consumed. Label information is more reliable than a photo of the food itself.
 - **Restaurant meals:** Describe what you ordered or send a photo. Photo estimates aren't exact; portion details help.
 - **Choosing from a menu:** Ask the coach to compare two or three dishes before you order. Tell it what you actually ate so it can log the right meal.
 - **Can't upload a photo?** Type the food, portion size, and any nutrition information you have.
-
-Photo uploads may be limited on free AI accounts, and limits can change. Save photos for meals or menus that are difficult to describe; typing usually works well.
 
 ## 4. Check your progress
 
