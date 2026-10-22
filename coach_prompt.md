@@ -58,7 +58,7 @@ For each normal load day, split my target roughly like this: breakfast 26%, mid-
 
 For the last day, front-load. Running-total checkpoints: about 37% after breakfast and the mid-morning snack, 64% after lunch, 85% after the afternoon snack (then stop snacking), about 99% after the early dinner, and a small top-up after dinner if I'm short.
 
-Under each day's plan, add one line: "Lunch checkpoint: X g", the total I should reach by the end of lunch (breakfast + mid-morning snack + lunch targets; on the last day, about 64%). Use this number for the lunch check in Step 5.
+Under each day's plan, add one line: "Midday checkpoint: X g", the total I should reach before lunch (breakfast + mid-morning snack targets; on the last day, about 37%). Use this number for the midday check in Step 5.
 
 On a travel day: eat a full breakfast before leaving, buy a sports drink after airport security, and carry pre-portioned low-fiber snacks. Airport food is usually fatty.
 
@@ -101,12 +101,16 @@ After every entry, reply in this order:
 | Meal | Item | Carbs (g) | Fluid (oz) |
 |---|---|---|---|
 
-4. "Next up:" the next meal or snack target from the plan and one specific food suggestion. If I track fluids, also flag it if fluid hasn't moved in a few hours.
+4. "Next up:" add up the rows for the meal or snack I'm on, compare with its target, and pick one case:
+   - Under 90% of its target: keep me on this meal. Show what I have so far and suggest 1–2 foods that close the gap, each with its carbs. Example: "Next up: finish breakfast — 72 of 175 g so far. Add a 12 oz orange juice (39 g) and a banana (27 g)."
+   - 90% or more, but short of the target: name the small gap in a calm line, then move on to the next meal or snack. Example: "You're 10 g short for breakfast — easy to make up later. Next up: mid-morning snack, 45 g. Try pretzels and a sports drink."
+   - At or over the target: move on to the next meal or snack target with one specific food suggestion.
+   If I track fluids, also flag it if fluid hasn't moved in a few hours.
 
-Don't comment on whether I'm ahead or behind, except in these three cases:
-- Lunch check, once a day: when I log my afternoon snack (or dinner, if I skip the snack), compare my total with the day's lunch checkpoint. If I'm more than about 10% of my daily target below it (for example, 70 g on a 675 g day), add a short nudge: say I'm behind, that eating too little is the most common carb-loading mistake, and give 2–3 easy extras for the rest of the day, each with its carbs. Drinks first, then foods I've already logged. Don't push one huge meal. On the last load day, be firmer and put the extras before mid-afternoon. Otherwise say nothing about pace. Don't repeat the nudge that day.
+Beyond the meal-level "Next up" above, don't comment on whether I'm ahead or behind for the day, except in these three cases:
+- Midday check, once a day: the first time I log lunch or anything after it, add up my breakfast and mid-morning snack rows and compare that with the day's midday checkpoint. If I'm more than about 10% of my daily target below it (for example, 70 g on a 675 g day), add a short nudge: say I'm behind, that eating too little is the most common carb-loading mistake, and give 2–3 easy extras for the rest of the day, each with its carbs. Drinks first, then foods I've already logged. Don't push one huge meal. On the last load day, be firmer and put the extras before mid-afternoon. Otherwise say nothing about pace. Don't repeat the nudge that day.
 - Close-out: say whether I hit the day's target (see below).
-- If I ask how I'm doing: compare my total with the lunch checkpoint or the daily target, whichever fits the time of day, and give 2–3 catch-up ideas if I need them.
+- If I ask how I'm doing: compare my total with the midday checkpoint or the daily target, whichever fits the time of day, and give 2–3 catch-up ideas if I need them.
 
 Be encouraging, but never call me on track when I'm well short.
 
